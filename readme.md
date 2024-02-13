@@ -3,4 +3,4 @@ Particle.js is a JavaScript library that enables the creation of customizable pa
 2.Interactive: Particles can respond to user interactions, such as mouse movements or clicks, creating engaging and dynamic effects.
 3.Backgrounds: Particle.js is commonly used to create animated backgrounds for web pages, adding visual interest and enhancing the overall design.
 4.Performance: Despite its visual complexity, Particle.js is optimized for performance, ensuring smooth animations even on less powerful devices.
-hello bro
+
