@@ -18,4 +18,8 @@ Here are some key features and aspects of   Particle.js:
 
 - Compatibility: Particle.js is compatible with modern web browsers and can be used in conjunction with other web technologies like HTML, CSS, and other JavaScript libraries or frameworks.
 
+<<<<<<< HEAD
 - To use Particle.js, you typically include the library in your web project by linking to its JavaScript file and then configure it by specifying parameters such as particle size, color, and behavior using JavaScript code or JSON configuration. This allows you to create a wide range of particle effects tailored to your design requirements.
+=======
+- To use Particle.js, you typically include the library in your web project by linking to its JavaScript file and then configure it by specifying parameters such as particle size, color, and behavior using JavaScript code or JSON configuration. This allows you to create a wide range of particle effects tailored to your design requirements.
+>>>>>>> 81f0bbe24c2eb019ce2cf7c26abab8e5e6fba6ce
