@@ -25,7 +25,7 @@ particlesJS('particles-js', {
   particles: {
     number: { value: 300 }, 
     color: { value: '#000' },
-    shape: { type: 'polygon', stroke: { width: 1, color: '#008000' } },
+    shape: { type: 'polygon', stroke: { width: 1, color: 'red' } },
     opacity: { value: 0.5, random: false, anim: { enable: false } },
     size: { value: 6, random: true, anim: { enable: false } },
     line_linked: { enable: true, distance: 100, color: '#FF0000', opacity: 0.4, width: 1 },
