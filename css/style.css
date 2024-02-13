@@ -15,19 +15,7 @@ body{
     padding-top: 40px;
 
 }
-.para{
-  font-size: 16px;
-    line-height: 28px;
-    font-family: Work Sans;   
-}
-.paraTwo{
-  padding-bottom: 70px;
-  font-size: 16px;
-    line-height: 28px;
-    font-family: Work Sans;
-    position:static; 
 
-}
 #particles-js {
   position: absolute;
   width: 100%;
