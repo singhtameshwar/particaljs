@@ -1,0 +1,71 @@
+@import url('https://fonts.googleapis.com/css2?family=Protest+Revolution&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+body{
+  background-image: url("background.png");
+}
+.hOne{
+  margin-top: 0;
+    margin-bottom: 24px;
+    font-size: 48px;
+    line-height: 56px;
+    font-family: Superior title, Times New Roman, sans-serif;
+    letter-spacing: 0;
+    font-weight: 800;
+    font-weight: bold;
+    padding-top: 40px;
+
+}
+.para{
+  font-size: 16px;
+    line-height: 28px;
+    font-family: Work Sans;   
+}
+.paraTwo{
+  padding-bottom: 70px;
+  font-size: 16px;
+    line-height: 28px;
+    font-family: Work Sans;
+    position:static; 
+
+}
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(to bottom right, #ff0000 0%, #ffcc66 100%);
+  z-index: -1;
+}
+.contOne{
+  box-sizing: border-box;
+  border-bottom: 1px solid #000;
+  
+}
+#refresh-config {
+  bottom: 5px;
+  left: 5px;
+  position: fixed;
+  z-index: 1000;
+}
+#particles-js {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #333333;
+  z-index: -1;
+}
+button {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 4rem;
+  width: 10rem;
+  font-size: 1.5rem;
+  border-radius: 5px;
+  border: none;
+  box-shadow: 1px 1px 5px black;
+  background-color: white;
+  background-color: rgb(45, 164, 79);
+  border-color: blueviolet;
+  color:black;
+}
